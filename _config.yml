@@ -1,0 +1,14 @@
+layout_spectrum: 0.5516178803518414
+typography_spectrum: 0.5169602199457586
+color:
+  brandStrength: 0.8056009700521827
+  lightness: 0.8896923530846834
+  saturation: 0.1331815104931593
+  rhythmicContrast: 0.4569284033495933
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: kandida
