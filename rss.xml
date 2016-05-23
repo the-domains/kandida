@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[kandida]]></title>
-        <description><![CDATA[kandida]]></description>
+        <title><![CDATA[kandida - real world digitalization examples]]></title>
+        <description><![CDATA[kandida - real world digitalization examples]]></description>
         <link>https://thegrid.ai/kandida/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 15:25:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2016 18:34:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kandida/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[A Disney space station? It no longer seems like such a goofy idea]]></title>
-            <description><![CDATA[<article><h1>A Disney space station? It no longer seems like such a goofy idea</h1><p>Throughout our planet's space-faring history, there have been two major impediments to putting a lot of private citizens into orbit. Only governments have had spacecraft, and there have been only a few, government-controlled, space stations to visit. But now that may finally changing in a big way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d83d67a7d53a5e25e15266ea03dab94cba53ee33.jpg"></article>]]></description>
-            <link>http://arstechnica.com/science/2016/04/a-disney-space-station-it-no-longer-seems-like-such-a-goofy-idea/</link>
-            <guid isPermaLink="false">62fac986-8ec5-47ce-bbc4-ec03ea93047e</guid>
-            <pubDate>Mon, 23 May 2016 15:24:23 GMT</pubDate>
+            <title><![CDATA[Atlas, The Next Generation]]></title>
+            <description><![CDATA[<article><h1>Atlas, The Next Generation</h1><p>A new version of Atlas, designed to operate outdoors and inside buildings. It is specialized for mobile manipulation. It is electrically powered and hydraulically actuated. It uses sensors in its body and legs to balance and LIDAR and stereo sensors in its head to avoid obstacles, assess the terrain, help with navigation and manipulate objects.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/21260b934c6f25baa38434c48403ae174b0abf91.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=rVlhMGQgDkY</link>
+            <guid isPermaLink="false">c003a962-ecfa-46a9-a2f2-40eeec9cfe5e</guid>
+            <pubDate>Mon, 23 May 2016 15:35:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sevenhugs' Smart Remote]]></title>
