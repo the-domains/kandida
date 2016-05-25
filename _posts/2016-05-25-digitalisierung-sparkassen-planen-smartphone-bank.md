@@ -12,8 +12,8 @@ inLanguage: de
 app_links: []
 isBasedOnUrl: 'http://linkis.com/www.sueddeutsche.de/yXliY'
 title: 'Digitalisierung - Sparkassen planen "Smartphone-Bank"'
-datePublished: '2016-05-25T09:12:34.833Z'
-dateModified: '2016-05-25T09:12:34.725Z'
+datePublished: '2016-05-25T09:12:38.470Z'
+dateModified: '2016-05-25T09:11:21.988Z'
 starred: false
 sourcePath: _posts/2016-05-25-digitalisierung-sparkassen-planen-smartphone-bank.md
 inFeed: true
