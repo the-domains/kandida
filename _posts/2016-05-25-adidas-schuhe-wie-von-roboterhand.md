@@ -15,8 +15,8 @@ inLanguage: de
 app_links: []
 isBasedOnUrl: 'http://www.handelsblatt.com/unternehmen/handel-konsumgueter/adidas-schuhe-wie-von-roboterhand/13637636.html?share=twitter'
 title: 'Adidas: Schuhe wie von Roboterhand'
-datePublished: '2016-05-25T09:12:34.837Z'
-dateModified: '2016-05-25T09:12:34.720Z'
+datePublished: '2016-05-25T09:12:38.468Z'
+dateModified: '2016-05-25T09:12:10.503Z'
 starred: false
 sourcePath: _posts/2016-05-25-adidas-schuhe-wie-von-roboterhand.md
 inFeed: true
