@@ -14,16 +14,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.546595
-  brandStrength: 0.8056009700521827
-  lightness: 0.8584229
+  saturation: 0.36410988005809486
+  brandStrength: 0.7005287916399539
+  lightness: 0.44361737719736993
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  rhythmicContrast: 0.5698925
-typography_spectrum: 0.5169602199457586
-layout_spectrum: 0.05197133
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  rhythmicContrast: 0.9392507232259959
+typography_spectrum: 0.5259540099650621
+layout_spectrum: 0.01229807292111218
 name: kandida - real world digitalization examples
