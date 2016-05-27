@@ -1,17 +1,29 @@
-layout_spectrum: 0.5516178803518414
-typography_spectrum: 0.5169602199457586
+author:
+  name: Robert Szilinski - Kandida GmbH
+  email: robert@szilinski.de
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.546595
   brandStrength: 0.8056009700521827
-  lightness: 0.8896923530846834
-  saturation: 0.1331815104931593
-  rhythmicContrast: 0.4569284033495933
+  lightness: 0.8584229
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+  rhythmicContrast: 0.5698925
+typography_spectrum: 0.5169602199457586
+layout_spectrum: 0.05197133
 name: kandida - real world digitalization examples
-author:
-  name: Robert Szilinski - Kandida GmbH
-  email: robert@szilinski.de
